@@ -2,6 +2,8 @@
 
 Welcome to Target Practice, a Python-based game where your objective is to hit a moving target with bullets fired from a stationary ship.
 
+![Target Practice Game](images/Target%20Practice%20Poster.png)
+
 ## How to Play
 
 Once you start the game, a target will appear on the screen, moving back and forth. Your goal is to control the ship at the bottom of the screen to shoot bullets at the target. You must aim carefully and predict the target's movement because you only have a limited number of bullets!
